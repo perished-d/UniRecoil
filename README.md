@@ -1,9 +1,9 @@
-1. Download the rar
+RainbowSix (R6) AntiRecoil / NoRecoil script C#
 
-2. extract it 
+Rainbow Six Siege, NoRecoil / AntiRecoil script with C# (Mouse Setting)
 
-3. run UniCoil
-   
-4. Start the EXE and have Fun
+    Beautiful UI
+    External
+
 
 ![image](https://github.com/user-attachments/assets/bb4c9250-b444-4acf-af4e-664b437345e1)
